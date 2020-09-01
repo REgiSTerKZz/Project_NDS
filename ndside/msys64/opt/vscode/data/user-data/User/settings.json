@@ -1,0 +1,7 @@
+{
+    "telemetry.enableTelemetry": false,
+    "C_Cpp.default.cppStandard": "c++17",
+    "C_Cpp.default.cStandard": "c99",
+    "C_Cpp.loggingLevel": "Information",
+    "editor.renderWhitespace": "all",
+}

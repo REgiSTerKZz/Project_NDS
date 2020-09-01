@@ -1,0 +1,1 @@
+SpriteSheet.o: SpriteSheet.s

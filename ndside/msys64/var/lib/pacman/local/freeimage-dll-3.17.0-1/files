@@ -1,0 +1,7 @@
+%FILES%
+opt/
+opt/devkitpro/
+opt/devkitpro/tools/
+opt/devkitpro/tools/bin/
+opt/devkitpro/tools/bin/FreeImage.dll
+

@@ -1,0 +1,124 @@
+[2020-05-26 16:48:03.039] [exthost] [info] extension host started
+[2020-05-26 16:48:03.062] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":false,"activationEvent":"onLanguage:c"}
+[2020-05-26 16:48:03.062] [exthost] [info] ExtensionService#loadCommonJSModule C:\CONSOLES\ndside\msys64\opt\vscode\data\extensions\ms-vscode.cpptools-0.27.1\dist\main
+[2020-05-26 16:48:03.155] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2020-05-26 16:48:03.156] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\debug-auto-launch\dist\extension
+[2020-05-26 16:48:03.174] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2020-05-26 16:48:03.174] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\emmet\dist\extension
+[2020-05-26 16:48:03.197] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2020-05-26 16:48:03.197] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\git\dist\main
+[2020-05-26 16:48:03.254] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2020-05-26 16:48:03.254] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\merge-conflict\dist\extension
+[2020-05-26 16:48:03.261] [exthost] [info] eager extensions activated
+[2020-05-26 16:55:04.686] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready {"startup":false,"activationEvent":"onDebugResolve"}
+[2020-05-26 16:55:04.686] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\debug-server-ready\dist\extension
+[2020-05-26 16:55:04.723] [exthost] [info] ExtensionService#_doActivateExtension vscode.grunt {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-05-26 16:55:04.723] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\grunt\dist\main
+[2020-05-26 16:55:04.727] [exthost] [info] ExtensionService#_doActivateExtension vscode.gulp {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-05-26 16:55:04.727] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\gulp\dist\main
+[2020-05-26 16:55:04.730] [exthost] [info] ExtensionService#_doActivateExtension vscode.jake {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-05-26 16:55:04.730] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\jake\dist\main
+[2020-05-26 16:55:04.734] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-05-26 16:55:04.734] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\npm\dist\main
+[2020-05-26 16:55:04.751] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-05-26 16:55:04.751] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\typescript-language-features\dist\extension
+[2020-05-26 17:30:49.702] [exthost] [info] extension host started
+[2020-05-26 17:30:49.719] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":false,"activationEvent":"onLanguage:cpp"}
+[2020-05-26 17:30:49.719] [exthost] [info] ExtensionService#loadCommonJSModule C:\CONSOLES\ndside\msys64\opt\vscode\data\extensions\ms-vscode.cpptools-0.27.1\dist\main
+[2020-05-26 17:30:49.790] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2020-05-26 17:30:49.790] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\debug-auto-launch\dist\extension
+[2020-05-26 17:30:49.794] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2020-05-26 17:30:49.794] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\emmet\dist\extension
+[2020-05-26 17:30:49.800] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2020-05-26 17:30:49.800] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\git\dist\main
+[2020-05-26 17:30:49.843] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2020-05-26 17:30:49.843] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\merge-conflict\dist\extension
+[2020-05-26 17:30:49.849] [exthost] [info] eager extensions activated
+[2020-05-26 17:31:09.515] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready {"startup":false,"activationEvent":"onDebugResolve"}
+[2020-05-26 17:31:09.515] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\debug-server-ready\dist\extension
+[2020-05-26 17:31:09.526] [exthost] [info] ExtensionService#_doActivateExtension vscode.grunt {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-05-26 17:31:09.526] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\grunt\dist\main
+[2020-05-26 17:31:09.529] [exthost] [info] ExtensionService#_doActivateExtension vscode.gulp {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-05-26 17:31:09.529] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\gulp\dist\main
+[2020-05-26 17:31:09.532] [exthost] [info] ExtensionService#_doActivateExtension vscode.jake {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-05-26 17:31:09.532] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\jake\dist\main
+[2020-05-26 17:31:09.534] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-05-26 17:31:09.534] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\npm\dist\main
+[2020-05-26 17:31:09.541] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-05-26 17:31:09.541] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\typescript-language-features\dist\extension
+[2020-05-26 17:31:41.536] [exthost] [info] extension host started
+[2020-05-26 17:31:41.554] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":false,"activationEvent":"onLanguage:c"}
+[2020-05-26 17:31:41.554] [exthost] [info] ExtensionService#loadCommonJSModule C:\CONSOLES\ndside\msys64\opt\vscode\data\extensions\ms-vscode.cpptools-0.27.1\dist\main
+[2020-05-26 17:31:41.605] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2020-05-26 17:31:41.605] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\debug-auto-launch\dist\extension
+[2020-05-26 17:31:41.608] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2020-05-26 17:31:41.608] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\emmet\dist\extension
+[2020-05-26 17:31:41.611] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2020-05-26 17:31:41.611] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\git\dist\main
+[2020-05-26 17:31:41.641] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2020-05-26 17:31:41.641] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\merge-conflict\dist\extension
+[2020-05-26 17:31:41.645] [exthost] [info] eager extensions activated
+[2020-05-26 17:32:31.763] [exthost] [info] extension host started
+[2020-05-26 17:32:31.798] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2020-05-26 17:32:31.799] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\debug-auto-launch\dist\extension
+[2020-05-26 17:32:31.802] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2020-05-26 17:32:31.802] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\emmet\dist\extension
+[2020-05-26 17:32:31.806] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2020-05-26 17:32:31.806] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\git\dist\main
+[2020-05-26 17:32:31.830] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2020-05-26 17:32:31.830] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\merge-conflict\dist\extension
+[2020-05-26 17:32:31.834] [exthost] [info] eager extensions activated
+[2020-05-26 17:32:33.147] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":false,"activationEvent":"onLanguage:c"}
+[2020-05-26 17:32:33.147] [exthost] [info] ExtensionService#loadCommonJSModule C:\CONSOLES\ndside\msys64\opt\vscode\data\extensions\ms-vscode.cpptools-0.27.1\dist\main
+[2020-05-26 17:32:34.900] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready {"startup":false,"activationEvent":"onDebugResolve"}
+[2020-05-26 17:32:34.901] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\debug-server-ready\dist\extension
+[2020-05-26 17:32:34.909] [exthost] [info] ExtensionService#_doActivateExtension vscode.grunt {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-05-26 17:32:34.909] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\grunt\dist\main
+[2020-05-26 17:32:34.912] [exthost] [info] ExtensionService#_doActivateExtension vscode.gulp {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-05-26 17:32:34.912] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\gulp\dist\main
+[2020-05-26 17:32:34.914] [exthost] [info] ExtensionService#_doActivateExtension vscode.jake {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-05-26 17:32:34.914] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\jake\dist\main
+[2020-05-26 17:32:34.916] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-05-26 17:32:34.916] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\npm\dist\main
+[2020-05-26 17:32:34.921] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-05-26 17:32:34.921] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\typescript-language-features\dist\extension
+[2020-05-26 17:33:34.206] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2020-05-26 17:33:34.206] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\configuration-editing\dist\extension
+[2020-05-26 17:33:34.212] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2020-05-26 17:33:34.212] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\json-language-features\client\dist\jsonMain
+[2020-05-26 17:34:33.567] [exthost] [info] extension host started
+[2020-05-26 17:34:33.584] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2020-05-26 17:34:33.584] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\debug-auto-launch\dist\extension
+[2020-05-26 17:34:33.588] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2020-05-26 17:34:33.588] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\emmet\dist\extension
+[2020-05-26 17:34:33.592] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2020-05-26 17:34:33.592] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\git\dist\main
+[2020-05-26 17:34:33.616] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2020-05-26 17:34:33.616] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\merge-conflict\dist\extension
+[2020-05-26 17:34:33.620] [exthost] [info] eager extensions activated
+[2020-05-26 17:34:41.481] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":false,"activationEvent":"onLanguage:c"}
+[2020-05-26 17:34:41.481] [exthost] [info] ExtensionService#loadCommonJSModule C:\CONSOLES\ndside\msys64\opt\vscode\data\extensions\ms-vscode.cpptools-0.27.1\dist\main
+[2020-05-26 17:34:44.685] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready {"startup":false,"activationEvent":"onDebugResolve"}
+[2020-05-26 17:34:44.685] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\debug-server-ready\dist\extension
+[2020-05-26 17:34:44.694] [exthost] [info] ExtensionService#_doActivateExtension vscode.grunt {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-05-26 17:34:44.694] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\grunt\dist\main
+[2020-05-26 17:34:44.697] [exthost] [info] ExtensionService#_doActivateExtension vscode.gulp {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-05-26 17:34:44.697] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\gulp\dist\main
+[2020-05-26 17:34:44.699] [exthost] [info] ExtensionService#_doActivateExtension vscode.jake {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-05-26 17:34:44.699] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\jake\dist\main
+[2020-05-26 17:34:44.701] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-05-26 17:34:44.701] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\npm\dist\main
+[2020-05-26 17:34:44.707] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-05-26 17:34:44.707] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\typescript-language-features\dist\extension
+[2020-05-26 17:36:01.906] [exthost] [info] extension host started
+[2020-05-26 17:36:01.924] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":false,"activationEvent":"onLanguage:c"}
+[2020-05-26 17:36:01.924] [exthost] [info] ExtensionService#loadCommonJSModule C:\CONSOLES\ndside\msys64\opt\vscode\data\extensions\ms-vscode.cpptools-0.27.1\dist\main
+[2020-05-26 17:36:01.973] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2020-05-26 17:36:01.973] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\debug-auto-launch\dist\extension
+[2020-05-26 17:36:01.976] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2020-05-26 17:36:01.976] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\emmet\dist\extension
+[2020-05-26 17:36:01.989] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2020-05-26 17:36:01.989] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\git\dist\main
+[2020-05-26 17:36:02.016] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2020-05-26 17:36:02.016] [exthost] [info] ExtensionService#loadCommonJSModule c:\CONSOLES\ndside\msys64\opt\vscode\resources\app\extensions\merge-conflict\dist\extension
+[2020-05-26 17:36:02.023] [exthost] [info] eager extensions activated

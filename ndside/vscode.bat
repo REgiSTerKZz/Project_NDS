@@ -1,0 +1,1 @@
+msys64\opt\vscode\Code.exe

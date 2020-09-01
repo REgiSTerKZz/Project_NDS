@@ -1,0 +1,19 @@
+[2020-05-21 15:10:46.726] [sharedprocess] [info] main {"machineId":"2272391a44cdbc65bd875fc570ad992efaa0e36b4ef58e68ceb0ecdd567696b9"}
+[2020-05-21 15:10:46.847] [sharedprocess] [info] Scanned user extensions: 2
+[2020-05-21 15:10:46.899] [sharedprocess] [info] Scanned system extensions: 72
+[2020-05-21 15:10:47.128] [sharedprocess] [info] Scanned user extensions: 2
+[2020-05-21 15:10:47.130] [sharedprocess] [info] Scanned user extensions: 2
+[2020-05-21 15:10:47.225] [sharedprocess] [info] Scanned system extensions: 72
+[2020-05-21 15:10:47.233] [sharedprocess] [info] Scanned system extensions: 72
+[2020-05-21 15:10:47.506] [sharedprocess] [info] Scanned user extensions: 2
+[2020-05-21 15:10:48.887] [sharedprocess] [info] Installing extension: webfreak.debug
+[2020-05-21 15:10:48.892] [sharedprocess] [info] Scanned user extensions: 2
+[2020-05-21 15:10:49.625] [sharedprocess] [info] Downloaded extension: webfreak.debug C:\Users\JOAN\AppData\Local\Temp\4eacce34-564f-43d3-aceb-3a16b683899f
+[2020-05-21 15:10:50.120] [sharedprocess] [info] Extracted extension to C:\CONSOLES\ndside\msys64\opt\vscode\data\extensions\.webfreak.debug-0.25.0: webfreak.debug
+[2020-05-21 15:10:50.121] [sharedprocess] [info] Renamed to C:\CONSOLES\ndside\msys64\opt\vscode\data\extensions\webfreak.debug-0.25.0
+[2020-05-21 15:10:50.125] [sharedprocess] [info] Installation completed. webfreak.debug
+[2020-05-21 15:10:50.138] [sharedprocess] [info] Extensions installed successfully: webfreak.debug
+[2020-05-21 15:11:26.751] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-05-21 15:15:47.522] [sharedprocess] [info] Scanned user extensions: 2
+[2020-05-21 15:20:47.542] [sharedprocess] [info] Scanned user extensions: 2
+[2020-05-21 15:25:47.564] [sharedprocess] [info] Scanned user extensions: 2

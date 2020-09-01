@@ -1,0 +1,33 @@
+{
+    "telemetry.machineId": "2272391a44cdbc65bd875fc570ad992efaa0e36b4ef58e68ceb0ecdd567696b9",
+    "openedPathsList": {
+        "workspaces3": [
+            "file:///c%3A/CONSOLES/ndside/animate_simple",
+            "file:///c%3A/CONSOLES/ndside/song_events_example",
+            "file:///c%3A/CONSOLES/ndside/basic_sound",
+            "file:///c%3A/CONSOLES/ndside/chapter_9-sounds",
+            "file:///c%3A/CONSOLES/ndside/simple",
+            "file:///c%3A/CONSOLES/ndside/allocation_test",
+            "file:///c%3A/CONSOLES/ndside/chapter_6-sprites",
+            "file:///c%3A/CONSOLES/ndside/256_color_bmp"
+        ],
+        "files2": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "pickerWorkingDir": "C:\\CONSOLES\\ndside",
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///c%3A/CONSOLES/ndside/animate_simple",
+            "backupPath": "C:\\CONSOLES\\ndside\\msys64\\opt\\vscode\\data\\user-data\\Backups\\cc68f3e38e8be43e97ed05085307207c",
+            "uiState": {
+                "mode": 0,
+                "x": -8,
+                "y": -8,
+                "width": 1936,
+                "height": 1056
+            }
+        },
+        "openedWindows": []
+    }
+}

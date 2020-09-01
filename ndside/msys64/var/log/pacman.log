@@ -1,0 +1,213 @@
+[2018-05-31 12:19] [PACMAN] Running 'pacman -Syu --root /tmp/newmsys/msys64'
+[2018-05-31 12:19] [PACMAN] synchronizing package lists
+[2018-05-31 12:19] [PACMAN] starting core system upgrade
+[2018-05-31 12:19] [PACMAN] starting full system upgrade
+[2018-05-31 12:19] [PACMAN] Running 'pacman -S --noconfirm --root /tmp/newmsys/msys64 base'
+[2018-05-31 12:20] [ALPM] transaction started
+[2018-05-31 12:20] [ALPM] installed msys2-runtime (2.10.0-2)
+[2018-05-31 12:20] [ALPM] installed bash (4.4.019-3)
+[2018-05-31 12:20] [ALPM] installed bash-completion (2.8-1)
+[2018-05-31 12:20] [ALPM] installed gcc-libs (7.3.0-1)
+[2018-05-31 12:20] [ALPM] installed libbz2 (1.0.6-2)
+[2018-05-31 12:20] [ALPM] installed libiconv (1.15-1)
+[2018-05-31 12:20] [ALPM] installed libintl (0.19.8.1-1)
+[2018-05-31 12:20] [ALPM] installed libgettextpo (0.19.8.1-1)
+[2018-05-31 12:20] [ALPM] installed libasprintf (0.19.8.1-1)
+[2018-05-31 12:20] [ALPM] installed gettext (0.19.8.1-1)
+[2018-05-31 12:20] [ALPM] installed liblzma (5.2.3-1)
+[2018-05-31 12:20] [ALPM] installed liblzo2 (2.10-1)
+[2018-05-31 12:20] [ALPM] installed gmp (6.1.2-1)
+[2018-05-31 12:20] [ALPM] installed libnettle (3.3-1)
+[2018-05-31 12:20] [ALPM] installed coreutils (8.26-3)
+[2018-05-31 12:20] [ALPM] installed icu (60.2-1)
+[2018-05-31 12:21] [ALPM] installed ncurses (6.1.20180526-1)
+[2018-05-31 12:21] [ALPM] installed libreadline (7.0.003-2)
+[2018-05-31 12:21] [ALPM] installed zlib (1.2.11-1)
+[2018-05-31 12:21] [ALPM] installed libxml2 (2.9.7-2)
+[2018-05-31 12:21] [ALPM] installed bsdcpio (3.3.2-1)
+[2018-05-31 12:21] [ALPM] installed bsdtar (3.3.2-1)
+[2018-05-31 12:21] [ALPM] installed bzip2 (1.0.6-2)
+[2018-05-31 12:21] [ALPM] installed libopenssl (1.0.2.m-1)
+[2018-05-31 12:21] [ALPM] installed openssl (1.0.2.m-1)
+[2018-05-31 12:21] [ALPM] installed findutils (4.6.0-1)
+[2018-05-31 12:21] [ALPM] installed sed (4.4-2)
+[2018-05-31 12:21] [ALPM] installed libffi (3.2.1-1)
+[2018-05-31 12:21] [ALPM] installed libpcre (8.40-2)
+[2018-05-31 12:21] [ALPM] installed less (529-1)
+[2018-05-31 12:21] [ALPM] installed gzip (1.9-1)
+[2018-05-31 12:21] [ALPM] installed info (6.3-1)
+[2018-05-31 12:21] [ALPM] installed libtasn1 (4.13-1)
+[2018-05-31 12:21] [ALPM] installed libgpg-error (1.27-1)
+[2018-05-31 12:21] [ALPM] installed libgcrypt (1.8.1-1)
+[2018-05-31 12:21] [ALPM] installed libxslt (1.1.32-1)
+[2018-05-31 12:21] [ALPM] installed glib2 (2.48.2-1)
+[2018-05-31 12:21] [ALPM] installed libp11-kit (0.23.9-1)
+[2018-05-31 12:21] [ALPM] installed p11-kit (0.23.9-1)
+[2018-05-31 12:21] [ALPM] installed ca-certificates (20170717-2)
+[2018-05-31 12:21] [ALPM] installed libdb (5.3.28-2)
+[2018-05-31 12:21] [ALPM] installed libcrypt (2.1-1)
+[2018-05-31 12:21] [ALPM] installed libedit (3.1-20170329)
+[2018-05-31 12:21] [ALPM] installed libsqlite (3.21.0-2)
+[2018-05-31 12:21] [ALPM] installed heimdal-libs (1.5.3-9)
+[2018-05-31 12:21] [ALPM] installed libunistring (0.9.7-2)
+[2018-05-31 12:21] [ALPM] installed libidn2 (2.0.4-2)
+[2018-05-31 12:21] [ALPM] installed libexpat (2.2.5-1)
+[2018-05-31 12:21] [ALPM] installed libmetalink (0.1.3-2)
+[2018-05-31 12:21] [ALPM] installed libnghttp2 (1.30.0-1)
+[2018-05-31 12:21] [ALPM] installed libpsl (0.19.1-1)
+[2018-05-31 12:21] [ALPM] installed libssh2 (1.8.0-1)
+[2018-05-31 12:21] [ALPM] installed libcurl (7.58.0-1)
+[2018-05-31 12:21] [ALPM] installed curl (7.58.0-1)
+[2018-05-31 12:21] [ALPM] installed filesystem (2018.04-1)
+[2018-05-31 12:21] [ALPM] installed grep (3.0-1)
+[2018-05-31 12:21] [ALPM] installed dash (0.5.9.1-1)
+[2018-05-31 12:21] [ALPM] installed dtc (1.4.4-1)
+[2018-05-31 12:21] [ALPM] installed file (5.33-1)
+[2018-05-31 12:21] [ALPM] installed m4 (1.4.18-1)
+[2018-05-31 12:21] [ALPM] installed flex (2.6.4-1)
+[2018-05-31 12:21] [ALPM] installed mpfr (4.0.1-1)
+[2018-05-31 12:21] [ALPM] installed gawk (4.2.0-1)
+[2018-05-31 12:21] [ALPM] installed libargp (20110921-1)
+[2018-05-31 12:21] [ALPM] installed getent (2.18.90-2)
+[2018-05-31 12:21] [ALPM] installed tftp-hpa (5.2-2)
+[2018-05-31 12:21] [ALPM] installed inetutils (1.9.4-1)
+[2018-05-31 12:21] [ALPM] installed lndir (1.0.3-1)
+[2018-05-31 12:21] [ALPM] installed mintty (1~2.8.5-1)
+[2018-05-31 12:21] [ALPM] installed msys2-keyring (r9.397a52e-1)
+[2018-05-31 12:21] [ALPM] installed msys2-launcher-git (0.3.32.56c2ba7-2)
+[2018-05-31 12:21] [ALPM] installed gnupg (1.4.22-3)
+[2018-05-31 12:21] [ALPM] installed pacman-mirrors (20180419-1)
+[2018-05-31 12:21] [ALPM] installed which (2.21-2)
+[2018-05-31 12:21] [ALPM] installed xz (5.2.3-1)
+[2018-05-31 12:21] [ALPM] installed pacman (5.0.1-7)
+[2018-05-31 12:21] [ALPM] installed libarchive (3.3.2-1)
+[2018-05-31 12:21] [ALPM] installed libpcre16 (8.40-2)
+[2018-05-31 12:21] [ALPM] installed libpcre32 (8.40-2)
+[2018-05-31 12:21] [ALPM] installed libpcrecpp (8.40-2)
+[2018-05-31 12:21] [ALPM] installed libpcreposix (8.40-2)
+[2018-05-31 12:21] [ALPM] installed pcre (8.40-2)
+[2018-05-31 12:21] [ALPM] installed pkgfile (17-1)
+[2018-05-31 12:21] [ALPM-SCRIPTLET] ==> Run 'pkgfile --update' to initialize the database
+[2018-05-31 12:21] [ALPM] installed libassuan (2.4.3-1)
+[2018-05-31 12:21] [ALPM] installed libgpgme (1.6.0-1)
+[2018-05-31 12:21] [ALPM] installed libutil-linux (2.26.2-1)
+[2018-05-31 12:21] [ALPM] installed wget (1.19.4-1)
+[2018-05-31 12:21] [ALPM] installed pactoys-git (r2.07ca37f-1)
+[2018-05-31 12:21] [ALPM] installed pax-git (20161104.2-1)
+[2018-05-31 12:21] [ALPM] installed rebase (4.4.2-1)
+[2018-05-31 12:21] [ALPM] installed time (1.7-1)
+[2018-05-31 12:21] [ALPM] installed ttyrec (1.0.8-1)
+[2018-05-31 12:21] [ALPM] installed tzcode (2018.c-1)
+[2018-05-31 12:21] [ALPM] installed util-linux (2.26.2-1)
+[2018-05-31 12:21] [ALPM] transaction completed
+[2018-12-28 17:26] [PACMAN] Running 'pacman -S nano'
+[2018-12-28 17:26] [ALPM] transaction started
+[2018-12-28 17:26] [ALPM] installed nano (2.9.7-1)
+[2018-12-28 17:26] [ALPM] transaction completed
+[2018-12-28 17:27] [PACMAN] Running 'pacman -U https://downloads.devkitpro.org/devkitpro-keyring-r1.787e015-2-any.pkg.tar.xz'
+[2018-12-28 17:27] [ALPM] transaction started
+[2018-12-28 17:27] [ALPM] installed devkitpro-keyring (r1.787e015-2)
+[2018-12-28 17:27] [ALPM-SCRIPTLET] ==> Appending keys from devkitpro.gpg...
+[2018-12-28 17:27] [ALPM-SCRIPTLET] gpg: 3 marginal(s) needed, 1 complete(s) needed, PGP trust model
+[2018-12-28 17:27] [ALPM-SCRIPTLET] gpg: depth: 0  valid:   1  signed:   5  trust: 0-, 0q, 0n, 0m, 0f, 1u
+[2018-12-28 17:27] [ALPM-SCRIPTLET] gpg: depth: 1  valid:   5  signed:   4  trust: 1-, 0q, 0n, 4m, 0f, 0u
+[2018-12-28 17:27] [ALPM-SCRIPTLET] gpg: depth: 2  valid:   3  signed:   0  trust: 3-, 0q, 0n, 0m, 0f, 0u
+[2018-12-28 17:27] [ALPM-SCRIPTLET] ==> Locally signing trusted keys in keyring...
+[2018-12-28 17:27] [ALPM-SCRIPTLET]   -> Locally signing key BC26F752D25B92CE272E0F44F7FD5492264BB9D0...
+[2018-12-28 17:27] [ALPM-SCRIPTLET]   -> Locally signing key 032F4C9D0B8FF3BC84019B7862C7609ADA219C60...
+[2018-12-28 17:27] [ALPM-SCRIPTLET] ==> Importing owner trust values...
+[2018-12-28 17:27] [ALPM-SCRIPTLET] gpg: setting ownertrust to 4
+[2018-12-28 17:27] [ALPM-SCRIPTLET] gpg: setting ownertrust to 4
+[2018-12-28 17:27] [ALPM-SCRIPTLET] ==> Updating trust database...
+[2018-12-28 17:27] [ALPM-SCRIPTLET] gpg: 3 marginal(s) needed, 1 complete(s) needed, PGP trust model
+[2018-12-28 17:27] [ALPM-SCRIPTLET] gpg: depth: 0  valid:   1  signed:   6  trust: 0-, 0q, 0n, 0m, 0f, 1u
+[2018-12-28 17:27] [ALPM-SCRIPTLET] gpg: depth: 1  valid:   6  signed:   3  trust: 0-, 0q, 0n, 6m, 0f, 0u
+[2018-12-28 17:27] [ALPM-SCRIPTLET] gpg: depth: 2  valid:   3  signed:   0  trust: 3-, 0q, 0n, 0m, 0f, 0u
+[2018-12-28 17:27] [ALPM] transaction completed
+[2018-12-28 17:27] [PACMAN] Running 'pacman -Syu'
+[2018-12-28 17:27] [PACMAN] synchronizing package lists
+[2018-12-28 17:27] [PACMAN] starting core system upgrade
+[2018-12-28 17:28] [ALPM] transaction started
+[2018-12-28 17:28] [ALPM] upgraded msys2-runtime (2.10.0-2 -> 2.11.2-1)
+[2018-12-28 17:28] [ALPM] upgraded bash (4.4.019-3 -> 4.4.023-1)
+[2018-12-28 17:28] [ALPM] upgraded filesystem (2018.04-1 -> 2018.12-1)
+[2018-12-28 17:28] [ALPM] upgraded mintty (1~2.8.5-1 -> 1~2.9.5-1)
+[2018-12-28 17:28] [ALPM] upgraded pacman-mirrors (20180419-1 -> 20180604-2)
+[2018-12-28 17:28] [ALPM] upgraded pacman (5.0.1-7 -> 5.1.2-1)
+[2018-12-28 17:28] [ALPM] transaction completed
+[2018-12-29 18:33] [PACMAN] Running 'pacman -S switch-dev'
+[2018-12-29 18:35] [ALPM] transaction started
+[2018-12-29 18:35] [ALPM] installed libnx (1.6.0-1)
+[2018-12-29 18:35] [ALPM] installed switch-examples (20181128-1)
+[2018-12-29 18:35] [ALPM] installed devkitA64 (r12-2)
+[2018-12-29 18:35] [ALPM] installed tool-dlls (1.0-1)
+[2018-12-29 18:35] [ALPM] installed general-tools (1.0.2-2)
+[2018-12-29 18:35] [ALPM] installed switch-tools (1.5.0-1)
+[2018-12-29 18:35] [ALPM] transaction completed
+[2018-12-29 18:43] [PACMAN] Running 'pacman -S make'
+[2018-12-29 18:43] [ALPM] transaction started
+[2018-12-29 18:43] [ALPM] installed make (4.2.1-1)
+[2018-12-29 18:43] [ALPM] transaction completed
+[2018-12-29 18:51] [PACMAN] Running 'pacman -S switch-mesa'
+[2018-12-29 18:52] [ALPM] transaction started
+[2018-12-29 18:52] [ALPM] installed switch-libdrm_nouveau (0.3.0-1)
+[2018-12-29 18:52] [ALPM] installed switch-mesa (18.2_beta2-1)
+[2018-12-29 18:52] [ALPM] transaction completed
+[2018-12-29 18:52] [PACMAN] Running 'pacman -S switch-glad'
+[2018-12-29 18:52] [ALPM] transaction started
+[2018-12-29 18:52] [ALPM] installed switch-glad (0.1.27-1)
+[2018-12-29 18:52] [ALPM] transaction completed
+[2018-12-29 18:52] [PACMAN] Running 'pacman -S switch-glm'
+[2018-12-29 18:52] [ALPM] transaction started
+[2018-12-29 18:52] [ALPM] installed switch-glm (0.9.9.1-1)
+[2018-12-29 18:52] [ALPM] transaction completed
+[2018-12-29 18:52] [PACMAN] Running 'pacman -S switch-glm'
+[2019-04-09 22:21] [PACMAN] Running 'pacman -Syu'
+[2019-04-09 22:21] [PACMAN] synchronizing package lists
+[2019-04-09 22:21] [PACMAN] starting core system upgrade
+[2019-04-09 22:22] [ALPM] transaction started
+[2019-04-09 22:22] [ALPM] upgraded pacman (5.1.2-1 -> 5.1.2-2)
+[2019-04-09 22:22] [ALPM] transaction completed
+[2019-04-09 22:23] [PACMAN] Running 'pacman -Rs n64'
+[2019-04-09 22:23] [PACMAN] Running 'pacman -Rs nx'
+[2019-04-09 22:23] [PACMAN] Running 'pacman -Rncs libnx'
+[2019-04-09 22:23] [ALPM] transaction started
+[2019-04-09 22:23] [ALPM] removed libnx (1.6.0-1)
+[2019-04-09 22:23] [ALPM] transaction completed
+[2019-04-09 22:24] [PACMAN] Running 'pacman -Rncs switch-examples switch-glad switch-glm switch-tools'
+[2019-04-09 22:24] [ALPM] transaction started
+[2019-04-09 22:24] [ALPM] removed switch-tools (1.5.0-1)
+[2019-04-09 22:24] [ALPM] removed switch-glm (0.9.9.1-1)
+[2019-04-09 22:24] [ALPM] removed switch-glad (0.1.27-1)
+[2019-04-09 22:24] [ALPM] removed switch-examples (20181128-1)
+[2019-04-09 22:24] [ALPM] transaction completed
+[2019-04-09 22:24] [PACMAN] Running 'pacman -Rncs devkitA64'
+[2019-04-09 22:24] [ALPM] transaction started
+[2019-04-09 22:24] [ALPM] removed devkitA64 (r12-2)
+[2019-04-09 22:24] [ALPM] transaction completed
+[2019-04-09 22:25] [PACMAN] Running 'pacman -S nds-dev'
+[2019-04-09 22:25] [ALPM] transaction started
+[2019-04-09 22:26] [ALPM] installed devkitARM (r52-1)
+[2019-04-09 22:26] [ALPM] installed devkitarm-rules (1.0.0-1)
+[2019-04-09 22:26] [ALPM] installed devkitarm-crtls (1.0.0-1)
+[2019-04-09 22:26] [ALPM] installed libnds (1.7.3-3)
+[2019-04-09 22:26] [ALPM] installed default-arm7 (0.7.4-2)
+[2019-04-09 22:26] [ALPM] installed dswifi (0.4.2-1)
+[2019-04-09 22:26] [ALPM] installed libfat-nds (1.1.3-2)
+[2019-04-09 22:26] [ALPM] installed libfilesystem (0.9.14-1)
+[2019-04-09 22:26] [ALPM] installed maxmod-nds (1.0.11-2)
+[2019-04-09 22:26] [ALPM] installed nds-examples (20181226-1)
+[2019-04-09 22:26] [ALPM] installed dstools (1.2.1-1)
+[2019-04-09 22:26] [ALPM] reinstalled general-tools (1.0.2-2)
+[2019-04-09 22:26] [ALPM] installed freeimage-dll (3.17.0-1)
+[2019-04-09 22:26] [ALPM] installed grit (0.8.15-1)
+[2019-04-09 22:26] [ALPM] installed mmutil (1.8.7-1)
+[2019-04-09 22:26] [ALPM] installed ndstool (2.1.2-1)
+[2019-04-09 22:26] [ALPM] transaction completed
+[2019-04-09 22:27] [PACMAN] Running 'pacman -S nds-libpng nds-freetype nds-zlib'
+[2019-04-09 22:27] [ALPM] transaction started
+[2019-04-09 22:27] [ALPM] installed nds-zlib (1.2.11-1)
+[2019-04-09 22:27] [ALPM] installed nds-libpng (1.6.34-1)
+[2019-04-09 22:27] [ALPM] installed nds-bzip2 (1.0.6-3)
+[2019-04-09 22:27] [ALPM] installed nds-freetype (2.9-1)
+[2019-04-09 22:27] [ALPM] transaction completed

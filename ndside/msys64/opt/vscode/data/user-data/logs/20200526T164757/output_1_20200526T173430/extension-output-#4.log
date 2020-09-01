@@ -1,0 +1,31 @@
+Se ha inicializado el servicio de exploración de código
+  La carpeta C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO/2019/COMMUNITY/VC/TOOLS/MSVC/14.24.28314/INCLUDE/* se indexará
+  La carpeta C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO/2019/COMMUNITY/VC/TOOLS/MSVC/14.24.28314/ATLMFC/INCLUDE/* se indexará
+  La carpeta C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.18362.0/UM/ se indexará
+  La carpeta C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.18362.0/UCRT/ se indexará
+  La carpeta C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.18362.0/SHARED/ se indexará
+  La carpeta C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.18362.0/WINRT/ se indexará
+  La carpeta C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.18362.0/CPPWINRT/ se indexará
+  La carpeta C:/CONSOLES/NDSIDE/SONG_EVENTS_EXAMPLE/ se indexará
+Rellenar la memoria caché de finalización de instrucciones include.
+Detectando archivos...
+  Procesando la carpeta (modo no recursivo): C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO/2019/COMMUNITY/VC/TOOLS/MSVC/14.24.28314/INCLUDE
+Comprobando si hay errores de sintaxis: file:///c%3A/CONSOLES/ndside/song_events_example/source/template.c
+  Procesando la carpeta (modo no recursivo): C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO/2019/COMMUNITY/VC/TOOLS/MSVC/14.24.28314/ATLMFC/INCLUDE
+  Procesando la carpeta (modo recursivo): C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.18362.0/UM/
+Comprobando si hay errores de sintaxis: file:///c%3A/CONSOLES/ndside/song_events_example/source/template.c
+El subrayado ondulado de errores se deshabilitará en file:///c%3A/CONSOLES/ndside/song_events_example/source/template.c
+  Procesando la carpeta (modo recursivo): C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.18362.0/UCRT/
+  Procesando la carpeta (modo recursivo): C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.18362.0/SHARED/
+  Procesando la carpeta (modo recursivo): C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.18362.0/WINRT/
+  Procesando la carpeta (modo recursivo): C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.18362.0/CPPWINRT/
+  Procesando la carpeta (modo recursivo): C:/CONSOLES/NDSIDE/SONG_EVENTS_EXAMPLE/
+  Detectando archivos. Archivos procesados: 4820
+  Se han quitado 0 archivos de la base de datos
+Ha finalizado la detección de archivos.
+Analizando los archivos restantes...
+  Analizando: 0 archivos procesados
+Ha finalizado el análisis de los archivos restantes.
+Apagando el servidor de IntelliSense: C:\CONSOLES\NDSIDE\SONG_EVENTS_EXAMPLE\SOURCE\TEMPLATE.C
+Comprobando si hay errores de sintaxis: file:///c%3A/CONSOLES/ndside/song_events_example/source/template.c
+El subrayado ondulado de errores se deshabilitará en file:///c%3A/CONSOLES/ndside/song_events_example/source/template.c

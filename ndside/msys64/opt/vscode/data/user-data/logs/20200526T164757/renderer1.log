@@ -1,0 +1,4 @@
+[2020-05-26 17:33:00.382] [renderer1] [error] Could not continue: Target exec does not support this command. (from exec-continue --reverse): Error: Could not continue: Target exec does not support this command. (from exec-continue --reverse)
+    at d.handleErrorResponse (file:///C:/CONSOLES/ndside/msys64/opt/vscode/resources/app/out/vs/workbench/workbench.main.js:2582:841)
+    at Promise.then.e (file:///C:/CONSOLES/ndside/msys64/opt/vscode/resources/app/out/vs/workbench/workbench.main.js:2582:295)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
