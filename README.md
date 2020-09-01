@@ -24,17 +24,17 @@ Also, this give the option to peak at the code!
 
 This is the recreation of the classic game where a fruit falls down and a basket in the bottom of the screen has to catch it before it falls to the ground.
 
-Here is a picture of it: 
-![Image] (/res/img.png)
+Here is a picture of it: <br/>
+![Image](/res/img.png)
 
 If an Apple hits the ground or a Bomb hits the basket, a live is taken from the player.
 
 
-Apple:
+Apple: <br/>
 ![Apple](/res/apple.png)
 
-Bomb:
+Bomb:<br/>
 ![Bomb](/res/bomb.png)
 
-Basket;
+Basket: <br/>
 ![Basket](/res/basket.png)
